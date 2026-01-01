@@ -1,5 +1,7 @@
 # PRODIGY_TrackCode_CyberSecurity
-I am grateful to Prodigy Infotech for the opportunity to work on hands-on cybersecurity projects during my internship. 
+I would like to express my sincere gratitude to Prodigy Infotech for providing me with the opportunity to work on hands-on cybersecurity projects during my internship. This internship helped me understand the fundamentals of cryptography, data protection, and secure information handling. Through these tasks, I gained practical exposure to implementing encryption techniques and learned how cybersecurity principles are applied in real-world scenarios.
+
+
 
 Task 1: Implement Caesar Cipher 
 This task involves creating a Python program that encrypts and decrypts text using the Caesar Cipher algorithm. The program takes a user’s message and a shift value as input. Each character in the message is shifted by a fixed number of positions in the alphabet. The same logic is reversed to decrypt the encrypted text. This task helps in understanding basic cryptography and substitution-based encryption techniques.
