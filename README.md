@@ -14,7 +14,7 @@ A Python-based security tool that implements the Caesar Cipher algorithm. This p
 
 ## How to Use
 1.  Place the text file you want to process in the project directory.
-2.  Run the script: `python caesar_cipher.py`
+2.  Run the script: `python caesar_cipher.py.`
 3.  Select **(E)** to encrypt or **(D)** to decrypt.
 4.  Enter the filename and the integer shift value.
 5.  Find your result in the generated output file (e.g., `encrypted_filename.txt`).
