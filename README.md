@@ -22,5 +22,8 @@ A Python-based security tool that implements the Caesar Cipher algorithm. This p
 ## Technical Details
 The algorithm uses the modulo operator `% 26` to ensure that shifts wrap around the alphabet (e.g., 'Z' shifted by 1 becomes 'A').
 
-Task 2: Pixel Manipulation for Image Encryption
-This task focuses on developing a simple image encryption tool using pixel manipulation techniques. The image is encrypted by modifying or swapping pixel values using basic mathematical operations. The encrypted image appears unreadable compared to the original image. Decryption is done by reversing the applied pixel operations. This task demonstrates how image data can be secured using encryption methods
+
+# Task-03: Password Complexity Checker
+
+## Description
+Build a tool that assesses the strength of a password based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. Provide feedback to users on the password's strength.
