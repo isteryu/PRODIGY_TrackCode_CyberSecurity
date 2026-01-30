@@ -1,0 +1,3 @@
+2026-01-30 11:31:29,071: Special Key: Key.esc
+2026-01-30 11:32:07,277: Special Key: Key.esc
+2026-01-30 13:35:15,791: Special Key: Key.esc
